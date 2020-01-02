@@ -1,0 +1,16 @@
+{"_id":{"$oid":"5e0def00cf1daa0068bf3210"},"word":"cow","description":"eats grass and gives milk","author":"admin","createdAt":{"$date":"2020-01-02T13:24:16.74Z"},"__v":0}
+{"_id":{"$oid":"5e0def0fcf1daa0068bf3211"},"word":"girafe","description":"animal with an extremely long neck","author":"admin","createdAt":{"$date":"2020-01-02T13:24:31.886Z"},"__v":0}
+{"_id":{"$oid":"5e0def2acf1daa0068bf3212"},"word":"house","description":"building in which people live","author":"admin","createdAt":{"$date":"2020-01-02T13:24:58.133Z"},"__v":0}
+{"_id":{"$oid":"5e0def38cf1daa0068bf3213"},"word":"bed","description":"where people sleep","author":"admin","createdAt":{"$date":"2020-01-02T13:25:12.395Z"},"__v":0}
+{"_id":{"$oid":"5e0def49cf1daa0068bf3214"},"word":"flashlight","description":"to light up a cave","author":"admin","createdAt":{"$date":"2020-01-02T13:25:29.796Z"},"__v":0}
+{"_id":{"$oid":"5e0def6ccf1daa0068bf3215"},"word":"car","description":"to drive you from a place to another","author":"admin","createdAt":{"$date":"2020-01-02T13:26:04.547Z"},"__v":0}
+{"_id":{"$oid":"5e0def7acf1daa0068bf3216"},"word":"airplane","description":"to fly you from a place to another","author":"admin","createdAt":{"$date":"2020-01-02T13:26:18.624Z"},"__v":0}
+{"_id":{"$oid":"5e0def8ecf1daa0068bf3217"},"word":"glass","description":"contains a certain liquid","author":"admin","createdAt":{"$date":"2020-01-02T13:26:38.123Z"},"__v":0}
+{"_id":{"$oid":"5e0defd2cf1daa0068bf3218"},"word":"bus","description":"to get children to school","author":"admin","createdAt":{"$date":"2020-01-02T13:27:46.221Z"},"__v":0}
+{"_id":{"$oid":"5e0defeacf1daa0068bf3219"},"word":"chalk","description":"to write on a blackboard","author":"admin","createdAt":{"$date":"2020-01-02T13:28:10.441Z"},"__v":0}
+{"_id":{"$oid":"5e0deffccf1daa0068bf321a"},"word":"hat","description":"to put on your head and give you style","author":"admin","createdAt":{"$date":"2020-01-02T13:28:28.733Z"},"__v":0}
+{"_id":{"$oid":"5e0df00acf1daa0068bf321b"},"word":"scarf","description":"to protect your neck in cold winters","author":"admin","createdAt":{"$date":"2020-01-02T13:28:42.318Z"},"__v":0}
+{"_id":{"$oid":"5e0df042cf1daa0068bf321c"},"word":"sunglasses","description":"to look good even when the sun directly lights up your head","author":"admin","createdAt":{"$date":"2020-01-02T13:29:38.708Z"},"__v":0}
+{"_id":{"$oid":"5e0df065cf1daa0068bf321d"},"word":"mouse","description":"small, cute animal with long teeth","author":"admin","createdAt":{"$date":"2020-01-02T13:30:13.493Z"},"__v":0}
+{"_id":{"$oid":"5e0df075cf1daa0068bf321e"},"word":"cat","description":"animal that ignores its master","author":"admin","createdAt":{"$date":"2020-01-02T13:30:29.097Z"},"__v":0}
+{"_id":{"$oid":"5e0df083cf1daa0068bf321f"},"word":"dog","description":"man's best friend","author":"admin","createdAt":{"$date":"2020-01-02T13:30:43.797Z"},"__v":0}

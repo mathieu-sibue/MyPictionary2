@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5e0df4870cb9a4594c3e691f"},"value":2,"lobbyIdAndUserId":{"lobbyId":"5e0df47f0cb9a4594c3e691e","userId":"5e03d746761fc030a8089cb3"},"lobbyId":"5e0df47f0cb9a4594c3e691e","username":"user2","__v":0}
+{"_id":{"$oid":"5e0e3dd2b924ce4340333fc2"},"value":1,"lobbyIdAndUserId":{"lobbyId":"5e0df4d30cb9a4594c3e6920","userId":"5e03d72d761fc030a8089cb2"},"lobbyId":"5e0df4d30cb9a4594c3e6920","username":"user1","__v":0}

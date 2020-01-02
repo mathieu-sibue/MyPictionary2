@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5e03d72d761fc030a8089cb2"},"gamesCreated":[],"email":"user1@gmail.com","password":"sha1$52f75748$1$0c3e0b4f43aef207794301ef0088e3bca145351b","username":"user1","admin":false,"__v":0}
+{"_id":{"$oid":"5e03d746761fc030a8089cb3"},"gamesCreated":[],"email":"user2@gmail.com","password":"sha1$30d24895$1$e8f4205d3d634f8200d17f045b2284f8237e13fc","username":"user2","admin":false,"__v":0}
+{"_id":{"$oid":"5e03d76e761fc030a8089cb4"},"gamesCreated":[],"email":"user3@gmail.com","password":"sha1$cec347c8$1$1a6e2807c6c079699f1d831f320b51c6fcb9136f","username":"user3","admin":false,"__v":0}
+{"_id":{"$oid":"5e03d785761fc030a8089cb5"},"gamesCreated":[],"email":"user4@gmail.com","password":"sha1$cd7b2c78$1$d1ecf55b5fee911a5f62cfe1cc345f1ebed9c8d9","username":"user4","admin":false,"__v":0}
+{"_id":{"$oid":"5e03d7ad761fc030a8089cb6"},"gamesCreated":[],"email":"user5@gmail.com","password":"sha1$fae714ee$1$4814be2cd87dfb1aa6593cb2f21030f0f8f2fb2b","username":"user5","admin":false,"__v":0}
+{"_id":{"$oid":"5e03d7bd761fc030a8089cb7"},"gamesCreated":[],"email":"admin@gmail.com","password":"sha1$10b5ef37$1$b4d74c857bded445a822650e2c4f11aba9f59158","username":"admin","admin":true,"__v":0}
+{"_id":{"$oid":"5e0d1d364555194f90854d8b"},"gamesCreated":[],"email":"kikitou@gmail.com","password":"sha1$49ee879a$1$a49a88c63bee44c7de901c3fb923550189fce0e6","username":"kikitou","admin":false,"__v":0}
