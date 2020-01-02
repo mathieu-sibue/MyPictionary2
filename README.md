@@ -1,4 +1,4 @@
-### par Mathieu Sibué
+# MyPictionary2 par Mathieu Sibué
 
 ## Description
 
