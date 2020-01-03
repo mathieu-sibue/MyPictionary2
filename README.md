@@ -67,7 +67,7 @@ Si vous souhaitez créer un compte admin, il vous faudra créer un simple compte
 ### Chargement des collections de la base de donnée
 
 - Dans le terminal de l'IDE ou de windows, se placer dans le dossier d'installation de MongoDB et naviguer vers le dossier bin contenu dans le dossier MongoDB.
-- Lancer alors les commandes : "mongoimport --db MyPictionary2 --file <chemin d'accès à MyPictionary2>\database_to_import\<users OU games OU words OU scores>.json" pour importer les documents de chaque collection que j'avais créés lors du développement du site web. Faire ceci pour chacune des quatre collections "users", "games", "scores" et "words".
+- Lancer alors les commandes : "mongoimport --db MyPictionary2 --file <chemin d'accès à MyPictionary2>\backend\database_to_import\<users OU games OU words OU scores>.json" pour importer les documents de chaque collection que j'avais créée lors du développement du site web. Faire ceci pour chacune des quatre collections "users", "games", "scores" et "words".
 - Visualisation des données de la base de données : à l'aide de Robo3T (connexion au "localhost:27017")
  
 Vous pourrez ensuite vous connecter à 5 comptes utilisateurs pré-existants (email : userN@gmail.com où N est compris entre 1 et 5, mdp : userN où N est compris entre 1 et 5) et un compte admin (email : admin@gmail.com, mdp : admin). Une partie crée par user2 est en cours et peut encore accueillir des joueurs ("onGoingLobby1"). Une autre est achevée ("niceLobby1").
