@@ -214,12 +214,14 @@ export default class PictionaryGame extends React.Component {
     });
   };
 
+  /*
   onResize = () => {
     this.setState({
       windowWidth: window.innerWidth,
       windowHeight: window.innerHeight
     });
   };
+  */
 
   throttle = (callback, delay) => {
     let previousCall = new Date().getTime();
